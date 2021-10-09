@@ -1,1 +1,1 @@
-# Pedistrian-Detection
+# Pedestrian-Detection
